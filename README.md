@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Gloria!
 
-<!--
-**oyelekegloria127-ops/oyelekegloria127-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a trained Data Analyst with Strong foundation in Excel, Power-BI and basic SQL
 
-Here are some ideas to get you started:
+## Tools I work with
+- Microsoft Excel
+- Power-BI
+- SQL
+- Google sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My roject
+- [Betting Platform Analysis Dashboard] (......)
+
+  ## Currently Learning
+  - Advanced SQL
+  - Data Storytelling
+ 
+  ## Let's Connect!
+  [X](https://x.com/Glo_thedatagirl)
