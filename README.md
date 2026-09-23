@@ -8,7 +8,7 @@ I'm a trained Data Analyst with Strong foundation in Excel, Power-BI and basic S
 - SQL
 - Google sheets
 
-## My roject
+## My Project
 - [Betting Platform Analysis Dashboard] (......)
 
   ## Currently Learning
